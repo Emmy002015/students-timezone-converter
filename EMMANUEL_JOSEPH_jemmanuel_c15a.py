@@ -8,10 +8,9 @@
 # In[1]:
 
 
-#importing pandas library
-#import pandas as pd
-
-
+# Name : Doris Akpan
+# Cohort : 1.4
+#Track: Software Engr
 # In[2]:
 
 
